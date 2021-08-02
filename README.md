@@ -1,7 +1,16 @@
-### Hi there 👋
+# Hi, I'm Suhas Sawanth 👋
 
-<!--
-**suh99as/suh99as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm an aspiring Data Science student from India, coming with a good knowledge of executing data driven projects using predictive models with high accuracy. Proficient problem solving and analytical skills. Advanced program efficiency and certified in  SQL, Data science and Machine learning algorithms.
+
+I have done my Masters in Business Administration and carry overall experience of 5 years in Non IT domain. I have grown interest towards Data science and willing to work on it.
+Hence, I have completed certification in Data Science from ExcelR institute. My goal is to gain more knowledge and achieve something big in this domain.
+
+  
+## Achievement
+
+ - Was promoted as Team leader within 3.5 years of my career and also have gained experience on Team Management by handling 18 team members.
+ - Provided 4 Process innovation ideas and was awarded as Innovative star for the ideas presented.
+ - Sucessfully completed Business communication course
 
 Here are some ideas to get you started:
 
